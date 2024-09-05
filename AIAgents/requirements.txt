@@ -1,0 +1,8 @@
+fastapi
+groq
+duckduckgo-search
+phidata
+python-dotenv
+openai
+uvicorn
+requests
